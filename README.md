@@ -23,7 +23,6 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces interativas e s
 <div>
 <a href="https://github.com/raayrs4">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayrs4&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raayrs4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📫 How to reach me:
