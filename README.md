@@ -20,8 +20,12 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces interativas e s
 - Exemplos de componentes reutilizáveis, sistemas responsivos e aplicações dinâmicas.
 - Implementações de boas práticas de código e metodologias ágeis.
 
+<div>
+<a href="https://github.com/raayrs4">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayrs4&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raayrs4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-[![Rayane's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=raayrs4&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/raayrs4)
 ## 📫 How to reach me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raayrs/)
